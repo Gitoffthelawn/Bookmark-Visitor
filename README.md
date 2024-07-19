@@ -21,7 +21,7 @@ Supported browsers in alphabetical order:
 ## Usage
 
 - Chrome: install the extension at [Bookmark-Visitor at Chrome Extensions](https://chrome.google.com/webstore/detail/bookmark-visitor/jhbibokejcdmofiiiakbobcpeefjeoeb)
-- Firefox: install the add-on at [Bookmark-Visitor at Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/bookmark-visitor/)
+- Firefox: install the add-on at [Bookmark-Visitor at Firefox Add-ons](https://addons.mozilla.org/firefox/addon/bookmark-visitor/)
 
 ![Screenshot of the English Version of the Chrome Extension](./docs/images/screenshot_chrome_en.png)
 ![Screenshot of the English Version of the Firefox Add-on](./docs/images/screenshot_firefox_en.png)
